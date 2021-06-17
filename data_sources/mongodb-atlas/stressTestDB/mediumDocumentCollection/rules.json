@@ -1,0 +1,19 @@
+{
+    "collection": "mediumDocumentCollection",
+    "database": "stressTestDB",
+    "roles": [
+        {
+            "name": "default",
+            "apply_when": {
+                "%%root.CurrencyIsoCode": {
+                    "%exists": true
+                }
+            },
+            "write": true,
+            "insert": true,
+            "delete": true,
+            "search": true,
+            "additional_fields": {}
+        }
+    ]
+}

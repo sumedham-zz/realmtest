@@ -1,0 +1,7 @@
+{
+    "app_id": "graphqlstresstest-dwgvt",
+    "config_version": 20210101,
+    "name": "GraphQLStressTest",
+    "location": "US-VA",
+    "deployment_model": "LOCAL"
+}

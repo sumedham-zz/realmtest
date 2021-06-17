@@ -1,0 +1,382 @@
+{
+    "properties": {
+        "ANA__c": {
+            "bsonType": "double"
+        },
+        "APTS_Annual_Fee_Structure__c": {
+            "bsonType": "string"
+        },
+        "APTS_Business_Model__c": {
+            "bsonType": "string"
+        },
+        "APTS_ISA_Agreement_Number__c": {
+            "bsonType": "string"
+        },
+        "APTS_ISA_Agreement__c": {
+            "bsonType": "string"
+        },
+        "APTS_ISA_Updated_Date__c": {
+            "bsonType": "date"
+        },
+        "APTS_Non_Renewable__c": {
+            "bsonType": "bool"
+        },
+        "APTS_SKU_Pricing_Model__c": {
+            "bsonType": "string"
+        },
+        "APTS_Success_Plan__c": {
+            "bsonType": "bool"
+        },
+        "AccountId__c": {
+            "bsonType": "string"
+        },
+        "AccountIdcasesafe__c": {
+            "bsonType": "string"
+        },
+        "AccountSource": {
+            "bsonType": "string"
+        },
+        "AccountTier__c": {
+            "bsonType": "string"
+        },
+        "Account_Base_Score__c": {
+            "bsonType": "double"
+        },
+        "Account_Classification__c": {
+            "bsonType": "string"
+        },
+        "Account_Count__c": {
+            "bsonType": "double"
+        },
+        "Account_Link__c": {
+            "bsonType": "string"
+        },
+        "Account_Number__c": {
+            "bsonType": "string"
+        },
+        "Account_Owner_Business_Card__c": {
+            "bsonType": "string"
+        },
+        "Account_Planning_Status__c": {
+            "bsonType": "string"
+        },
+        "Account_Size__c": {
+            "bsonType": "string"
+        },
+        "Account_Sourcing_AE__c": {
+            "bsonType": "string"
+        },
+        "Account_Sourcing_CSD__c": {
+            "bsonType": "string"
+        },
+        "Account_Status__c": {
+            "bsonType": "string"
+        },
+        "Account_Target_Status__c": {
+            "bsonType": "string"
+        },
+        "Account_Tier__c": {
+            "bsonType": "string"
+        },
+        "Acquisition_External_Id__c": {
+            "bsonType": "string"
+        },
+        "Active_Deployment_Exists__c": {
+            "bsonType": "bool"
+        },
+        "Active_Opportunity_Count_Sourcing__c": {
+            "bsonType": "double"
+        },
+        "Active_Opportunity_Count_Workday__c": {
+            "bsonType": "double"
+        },
+        "Activity_Frequency__c": {
+            "bsonType": "string"
+        },
+        "Activity_Start_Date__c": {
+            "bsonType": "date"
+        },
+        "Adaptive_Insights_CSM__c": {
+            "bsonType": "string"
+        },
+        "Adaptive_Insights_Customer__c": {
+            "bsonType": "bool"
+        },
+        "Aggregated_Employee_Count__c": {
+            "bsonType": "double"
+        },
+        "All_Jumbo_Tenants__c": {
+            "bsonType": "bool"
+        },
+        "Alliances_Target_Account__c": {
+            "bsonType": "bool"
+        },
+        "Allowed_To_Name__c": {
+            "bsonType": "string"
+        },
+        "Analytics__c": {
+            "bsonType": "string"
+        },
+        "AnnualRevenue": {
+            "bsonType": "double"
+        },
+        "Apts_background_check_requirement__c": {
+            "bsonType": "string"
+        },
+        "Apts_notices_required__c": {
+            "bsonType": "string"
+        },
+        "Area__c": {
+            "bsonType": "string"
+        },
+        "Attached_RSM_s_answers__c": {
+            "bsonType": "bool"
+        },
+        "Auditor__c": {
+            "bsonType": "string"
+        },
+        "BDA_Enabled__c": {
+            "bsonType": "bool"
+        },
+        "Benefits_System_of_Record__c": {
+            "bsonType": "string"
+        },
+        "BillingAddress": {
+            "bsonType": "object",
+            "properties": {
+                "city": {
+                    "bsonType": "string"
+                },
+                "country": {
+                    "bsonType": "string"
+                },
+                "countryCode": {
+                    "bsonType": "string"
+                },
+                "postalCode": {
+                    "bsonType": "string"
+                },
+                "state": {
+                    "bsonType": "string"
+                },
+                "stateCode": {
+                    "bsonType": "string"
+                },
+                "street": {
+                    "bsonType": "string"
+                }
+            }
+        },
+        "BillingCity": {
+            "bsonType": "string"
+        },
+        "BillingCountry": {
+            "bsonType": "string"
+        },
+        "BillingCountryCode": {
+            "bsonType": "string"
+        },
+        "BillingPostalCode": {
+            "bsonType": "string"
+        },
+        "BillingState": {
+            "bsonType": "string"
+        },
+        "BillingStateCode": {
+            "bsonType": "string"
+        },
+        "BillingStreet": {
+            "bsonType": "string"
+        },
+        "Billing_Country_Code__c": {
+            "bsonType": "string"
+        },
+        "Billing_Country_ISO_Code_3__c": {
+            "bsonType": "string"
+        },
+        "Billing_Id__c": {
+            "bsonType": "string"
+        },
+        "Billing_State_Code__c": {
+            "bsonType": "string"
+        },
+        "Bixby_Allowed__c": {
+            "bsonType": "double"
+        },
+        "Bombora_Avg_Composite_Score__c": {
+            "bsonType": "double"
+        },
+        "Bombora_Composite_Score_Sum__c": {
+            "bsonType": "double"
+        },
+        "Bombora_Topic_Count__c": {
+            "bsonType": "double"
+        },
+        "Budgeting_Tools_Systems_of_Record__c": {
+            "bsonType": "string"
+        },
+        "COVID_Industry_Insights__c": {
+            "bsonType": "string"
+        },
+        "CRM_System_of_Record__c": {
+            "bsonType": "string"
+        },
+        "CSD_Name__c": {
+            "bsonType": "string"
+        },
+        "CSD_Prospecting_Financials_New__c": {
+            "bsonType": "string"
+        },
+        "CSD_Prospecting_HCM_New__c": {
+            "bsonType": "string"
+        },
+        "CSD_Status_Financials__c": {
+            "bsonType": "string"
+        },
+        "CSD_Status_HCM__c": {
+            "bsonType": "string"
+        },
+        "CSM_section_message__c": {
+            "bsonType": "string"
+        },
+        "CTA_Active__c": {
+            "bsonType": "bool"
+        },
+        "CTA_Complete__c": {
+            "bsonType": "bool"
+        },
+        "CTA_Timestamp__c": {
+            "bsonType": "date"
+        },
+        "Call_To_Action__c": {
+            "bsonType": "string"
+        },
+        "Case_Team_Opt_In__c": {
+            "bsonType": "bool"
+        },
+        "Charge_Tenants_Count__c": {
+            "bsonType": "double"
+        },
+        "Closed_Pending_Opportunity_Count__c": {
+            "bsonType": "double"
+        },
+        "Co_Source_Contract_Not_Signed__c": {
+            "bsonType": "bool"
+        },
+        "Co_Source_Function_Count__c": {
+            "bsonType": "double"
+        },
+        "Compensation_System_of_Record__c": {
+            "bsonType": "string"
+        },
+        "Competitor__c": {
+            "bsonType": "bool"
+        },
+        "Consolidation_System_of_Record__c": {
+            "bsonType": "string"
+        },
+        "Contact_Domains__c": {
+            "bsonType": "string"
+        },
+        "Contract_Vehicle__c": {
+            "bsonType": "string"
+        },
+        "Core_HR_System_of_Record_Last_Edit_Date__c": {
+            "bsonType": "date"
+        },
+        "Core_HR_System_of_Record_Populated__c": {
+            "bsonType": "double"
+        },
+        "Cost_Reduction__c": {
+            "bsonType": "string"
+        },
+        "Create_Customer_Failed_In_Workday__c": {
+            "bsonType": "bool"
+        },
+        "CreatedById": {
+            "bsonType": "string"
+        },
+        "CreatedDate": {
+            "bsonType": "date"
+        },
+        "CurrencyIsoCode": {
+            "bsonType": "string"
+        },
+        "Currency__c": {
+            "bsonType": "string"
+        },
+        "Current_or_Previous_SCA_customer__c": {
+            "bsonType": "string"
+        },
+        "Customer_Added_to_Jira_Customer_List__c": {
+            "bsonType": "bool"
+        },
+        "Customer_BRAVo__c": {
+            "bsonType": "bool"
+        },
+        "Customer_Base_AE_Status__c": {
+            "bsonType": "string"
+        },
+        "Customer_Base_AE__c": {
+            "bsonType": "string"
+        },
+        "Customer_Favorability__c": {
+            "bsonType": "double"
+        },
+        "Customer_ID_in_Workday__c": {
+            "bsonType": "string"
+        },
+        "Customer_In_Production__c": {
+            "bsonType": "bool"
+        },
+        "Customer_Number__c": {
+            "bsonType": "double"
+        },
+        "Customer_Of__c": {
+            "bsonType": "string"
+        },
+        "Customer_Readiness__c": {
+            "bsonType": "date"
+        },
+        "Customer_Segment__c": {
+            "bsonType": "string"
+        },
+        "Customer_Since__c": {
+            "bsonType": "date"
+        },
+        "Customer_Spotlight__c": {
+            "bsonType": "bool"
+        },
+        "Customer_Success_Director__c": {
+            "bsonType": "string"
+        },
+        "Customer_Success_Manager__c": {
+            "bsonType": "string"
+        },
+        "Customer_Success_Type__c": {
+            "bsonType": "string"
+        },
+        "Customer_Target_Account__c": {
+            "bsonType": "bool"
+        },
+        "Customer_Tenant_Prefix__c": {
+            "bsonType": "string"
+        },
+        "DSC_Allowed__c": {
+            "bsonType": "double"
+        },
+        "Data_Center__c": {
+            "bsonType": "string"
+        },
+        "Data_com_Industry__c": {
+            "bsonType": "string"
+        },
+        "Deployed_Indicator__c": {
+            "bsonType": "double"
+        },
+        "Deployment_Partner__c": {
+            "bsonType": "string"
+        }
+    },
+    "title": "medium2DocumentCollection"
+}

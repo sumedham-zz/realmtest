@@ -1,0 +1,25 @@
+{
+    "properties": {
+        "_id": {
+            "bsonType": "objectId"
+        },
+        "item": {
+            "bsonType": "string"
+        },
+        "owner": {
+            "bsonType": "string"
+        },
+        "quantity": {
+            "bsonType": "int"
+        },
+        "randomObj": {
+            "bsonType": "object",
+            "properties": {
+                "abc": {
+                    "bsonType": "string"
+                }
+            }
+        }
+    },
+    "title": "item"
+}

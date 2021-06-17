@@ -1,0 +1,146 @@
+{
+    "properties": {
+        "ANA__c": {
+            "bsonType": "double"
+        },
+        "APTS_Annual_Fee_Structure__c": {
+            "bsonType": "string"
+        },
+        "APTS_Business_Model__c": {
+            "bsonType": "string"
+        },
+        "APTS_ISA_Agreement_Number__c": {
+            "bsonType": "string"
+        },
+        "APTS_ISA_Agreement__c": {
+            "bsonType": "string"
+        },
+        "APTS_ISA_Updated_Date__c": {
+            "bsonType": "date"
+        },
+        "APTS_Non_Renewable__c": {
+            "bsonType": "bool"
+        },
+        "APTS_SKU_Pricing_Model__c": {
+            "bsonType": "string"
+        },
+        "APTS_Success_Plan__c": {
+            "bsonType": "bool"
+        },
+        "AccountId__c": {
+            "bsonType": "string"
+        },
+        "AccountIdcasesafe__c": {
+            "bsonType": "string"
+        },
+        "AccountSource": {
+            "bsonType": "string"
+        },
+        "AccountTier__c": {
+            "bsonType": "string"
+        },
+        "Account_Base_Score__c": {
+            "bsonType": "double"
+        },
+        "Account_Classification__c": {
+            "bsonType": "string"
+        },
+        "Account_Count__c": {
+            "bsonType": "double"
+        },
+        "Account_Link__c": {
+            "bsonType": "string"
+        },
+        "Account_Number__c": {
+            "bsonType": "string"
+        },
+        "Account_Owner_Business_Card__c": {
+            "bsonType": "string"
+        },
+        "Account_Planning_Status__c": {
+            "bsonType": "string"
+        },
+        "Account_Size__c": {
+            "bsonType": "string"
+        },
+        "Account_Sourcing_AE__c": {
+            "bsonType": "string"
+        },
+        "Account_Sourcing_CSD__c": {
+            "bsonType": "string"
+        },
+        "Account_Status__c": {
+            "bsonType": "string"
+        },
+        "Account_Target_Status__c": {
+            "bsonType": "string"
+        },
+        "Account_Tier__c": {
+            "bsonType": "string"
+        },
+        "Acquisition_External_Id__c": {
+            "bsonType": "string"
+        },
+        "Active_Deployment_Exists__c": {
+            "bsonType": "bool"
+        },
+        "Active_Opportunity_Count_Sourcing__c": {
+            "bsonType": "double"
+        },
+        "Active_Opportunity_Count_Workday__c": {
+            "bsonType": "double"
+        },
+        "Activity_Frequency__c": {
+            "bsonType": "string"
+        },
+        "Activity_Start_Date__c": {
+            "bsonType": "date"
+        },
+        "Adaptive_Insights_CSM__c": {
+            "bsonType": "string"
+        },
+        "Adaptive_Insights_Customer__c": {
+            "bsonType": "bool"
+        },
+        "Aggregated_Employee_Count__c": {
+            "bsonType": "double"
+        },
+        "All_Jumbo_Tenants__c": {
+            "bsonType": "bool"
+        },
+        "Alliances_Target_Account__c": {
+            "bsonType": "bool"
+        },
+        "Allowed_To_Name__c": {
+            "bsonType": "string"
+        },
+        "Analytics__c": {
+            "bsonType": "string"
+        },
+        "AnnualRevenue": {
+            "bsonType": "double"
+        },
+        "Apts_background_check_requirement__c": {
+            "bsonType": "string"
+        },
+        "Apts_notices_required__c": {
+            "bsonType": "string"
+        },
+        "Area__c": {
+            "bsonType": "string"
+        },
+        "Attached_RSM_s_answers__c": {
+            "bsonType": "bool"
+        },
+        "Auditor__c": {
+            "bsonType": "string"
+        },
+        "BDA_Enabled__c": {
+            "bsonType": "bool"
+        },
+        "Benefits_System_of_Record__c": {
+            "bsonType": "string"
+        }
+    },
+    "title": "smallDocumentCollection"
+}

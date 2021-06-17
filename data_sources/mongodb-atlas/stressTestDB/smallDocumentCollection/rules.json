@@ -1,0 +1,19 @@
+{
+    "collection": "smallDocumentCollection",
+    "database": "stressTestDB",
+    "roles": [
+        {
+            "name": "default",
+            "apply_when": {
+                "%%root.Activity_Frequency__c": {
+                    "$exists": true
+                }
+            },
+            "write": true,
+            "insert": true,
+            "delete": true,
+            "search": true,
+            "additional_fields": {}
+        }
+    ]
+}
